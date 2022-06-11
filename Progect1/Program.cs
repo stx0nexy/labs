@@ -7,7 +7,6 @@ namespace Progect1
         {
             Console.Title = "мяу";
             Console.WriteLine("Hello");
-            Console.ReadKey();
         }
     }
 }
